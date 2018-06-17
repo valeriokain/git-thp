@@ -1,2 +1,3 @@
 Ceci est mon tout premier repo GitHub, waow !
 # git-thp
+Sorry, j'ai sûrement sauté une étape...
